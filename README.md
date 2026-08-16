@@ -1,14 +1,14 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aminatahir-0/Student-Engagement-Analytics/blob/main/Untitled2.ipynb)
 
-# Internship Engagement & Dropout Analysis
+# Student Engagement Analytics
 
 ## 📌 Project Overview
-This project investigates the key factors influencing internship completion and dropout rates using an online learning engagement dataset. Through data cleaning, feature engineering, and exploratory data analysis in Python, this study evaluates program retention, departmental variations, and behavioral engagement metrics.
+This project investigates the key factors influencing student course completion and dropout rates using an online learning engagement dataset. Through data cleaning, feature engineering, and exploratory data analysis in Python, this study evaluates program retention, departmental variations, and behavioral engagement metrics.
 
 ## 📊 Key Findings
 * **High Attrition Rate:** The overall program dropout rate stands at **57.8%**, highlighting a significant retention challenge.
-* **Behavioral Variability:** **Assignments Completed** and **Mentor Interactions** showed the highest coefficient of variation ($>60\%$), indicating inconsistent engagement among participants.
-* **Independent Metrics:** Pearson correlation analysis revealed near-zero linear relationships ($0.0$ to $\pm 0.05$) among individual engagement habits, suggesting dropouts are driven by broader factors rather than isolated actions.
+* **Behavioral Variability:** **Assignments Completed** and **Mentor Interactions** showed the highest coefficient of variation (~60%), indicating inconsistent engagement among participants.
+* **Independent Metrics:** Pearson correlation analysis revealed near-zero linear relationships (0.0 to ±0.05) among individual engagement habits, suggesting dropouts are driven by broader factors rather than isolated actions.
 
 ## 🛠️ Tech Stack & Libraries
 * **Language:** Python
